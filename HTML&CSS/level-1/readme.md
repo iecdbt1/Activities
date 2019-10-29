@@ -53,7 +53,6 @@ You're done, congrats! move to the next step!
 	- Then Read
 
 #### Tutorials
-
-	[First One](https://www.w3schools.com/html/html_elements.asp)
+[First One](https://www.w3schools.com/html/html_elements.asp)
 	
 
