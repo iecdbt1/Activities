@@ -15,6 +15,7 @@
 ##### Step-1
 Let's start with cv.html, if you open cv.html you will find a cv without style, do not forget this cv we will work on it during the year.
 Let's edit the information at the beginning:
+
 	- Change the name to your name (10p).
 	- Change the title (10p).
 	- Chang the Experiences (10p).
