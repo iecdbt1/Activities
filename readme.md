@@ -31,7 +31,7 @@ In the end of the year the school who has the highest score will win!
 
 It is a game so it needs rules, let's add some rules to make it more chalenge!
 
-*We have here three kinds of score for each exercise:*
+##### *We have here three kinds of score for each exercise:*
 - **IS**: it is an individual score for each student (the sum of points for each exercise)
 - **TS**: it is a team score for each team in the class(the sum of individual scores for each team)
 - **CS**: it is a class score for each class (the sum of team scores for each class)
