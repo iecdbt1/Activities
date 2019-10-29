@@ -17,7 +17,6 @@
 Let's start with cv.html, if you open cv.html you will find a cv without style, do not forget this cv we will work on it during the year.
 Change the file name to your name
 Let's edit the information at the beginning:
-
 	- Change the name to your name (10p)
 	- Change the title (10p)
 	- Chang the Experiences (10p)
@@ -28,7 +27,6 @@ It's fine to write fake information here, no worries, it will be real!
 You're done, congrats! move to the next step!
 
 ##### Step-2
-
 	- Creat folder and name it as your name
 	- Create school.html file.
 	- Open school.html and write the document tree.
@@ -37,7 +35,6 @@ You're done, congrats! move to the next step!
 	- Table descriping the kinds of BT1 in your school (kind id-title-number of classes-number of students), and fill it.
 
 ##### Step-2
-
 	- In the same folder.
 	- Create student.html file.
 	- Open student.html and write the document tree.
@@ -53,6 +50,6 @@ You're done, congrats! move to the next step!
 	- Then Read
 
 #### Tutorials
-[First One](https://www.w3schools.com/html/html_elements.asp)
+- [First One](https://www.w3schools.com/html/html_elements.asp)
 	
 
