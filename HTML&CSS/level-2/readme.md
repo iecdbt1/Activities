@@ -8,6 +8,9 @@ Here you are again, how was the las level?
 Hope you likedd the html elements and get familier how structure a page!
 Here in level-2 we will include some css inside and outside our html page, let's go!
 
+#### Hints
+- [Googlr](https://www.google.com)
+- [Again](https://www.google.com)
 
 #### Goals
 - Practicing html elment.
