@@ -28,7 +28,7 @@ let's come back again then!
 You will find a folder cv-third-step open it.
 You will find index.html name to your name and create a style sheet and make it look like the image below:
 
-![image](./images/template1.png.png)
+![image](./images/template1.png)
 
 If you done now, so you have practice enough to imitate a full page, move to next step!
 
