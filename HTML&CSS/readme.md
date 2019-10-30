@@ -8,7 +8,7 @@ During the year you need a good friend to help you solve the exercises, regardin
 Actually you might know this friend and you dealt with before, I'm not kidding and he will be the only one who  answers you any time any where, you just need an internet connection in addition to a computer/laptop or a mobile phone.
 
 
-[I'm your friend](www.google.com)
+[I'm your friend](https://www.google.com)
 
 Enjoy your time 
 
