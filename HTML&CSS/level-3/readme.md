@@ -26,7 +26,7 @@ Creat foler name it to "level-3-yourname" and do inside the following steps (4p)
 - Create a style sheet linked in the html page yo uhave been created.
 - Build a page that contains all the HTML elements in the image below:
 
-(/images/imatation.png)
+![image](/images/imatation.png)
 
 Great! now you've created the first html page!
 let's give page some style, move to next step!
