@@ -22,6 +22,7 @@ Create an HTML file and name it “level-2-1": This document should contain the 
 - Uses Quotations (1p)
 - Uses 3 formatting types (3p)
 - Atleast one image that should contain the alt attribute (2p) 
+
 If you done this you get points move to the next step!
 
 ##### step-2 (40p)
@@ -33,6 +34,7 @@ Create an HTML file and name it "level-2-2" This document should contain the fol
 - An image with alt attribute and under it an unordered list of 5 items (10p)
 - In the footer, three hyperlinks that takes you to google.com,facebook.com,github.com (6p)
 - Images should contain the alt attribute (5p)
+
 Redo do the same step but with **internal stylesheet** (5p)
 Congrats, you've done the step-2 move forward to step-3!
 
@@ -44,4 +46,5 @@ Did you remember the cv exercises let use it back again:
 - Change the colors, backgrounds, font size and font family (4p)
 - Make the about section hidden (1p)
 - Now do the opposite (1p)
+
 Congrats, I'm really glad that you are reach here, see you next exercise!
