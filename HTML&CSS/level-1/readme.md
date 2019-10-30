@@ -2,7 +2,7 @@
 
 ## HTML/CSS
 
-### level-1
+### level-1 (100p)
 
 
 #### Goals
