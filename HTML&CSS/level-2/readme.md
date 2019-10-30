@@ -37,6 +37,7 @@ Create an HTML file and name it "level-2-2" This document should contain the fol
 - Do not forget we said that let's do some style, so each elment before should be styled!
 
 Redo  the same step but with **internal stylesheet** (5p)
+
 Congrats, you've done the step-2 move forward to step-3!
 
 ##### step-3 (30p)
