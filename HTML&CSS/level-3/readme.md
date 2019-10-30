@@ -19,41 +19,39 @@ Previously you have learned about html structure, elements and how to style them
 - Ability to imitate html template.
 
 #### Steps
-Creat foler name it to "level-3-yourname" and do inside the following steps (4p)
+Creat folder name it to "level-3-yourname" and do inside the following steps 
 
-##### step-1 (16p)
+##### step-1 (25p)
+
+If you remember I'v told you that the cv will use it too much.
+let's come back again then!
+You will find a folder cv-third-step open it.
+You will find index.html name to your name and create a style sheet and make it look like the image below:
+
+![image](./images/template1.png.png)
+
+If you done now, so you have practice enough to imitate a full page, move to next step!
+
+
+##### step-2 (50p)
+
+Creat a folder name it to "level-3-yourname" and do inside the following: 
 - Create an HTML file and name it “yourname.html"
 - Create a style sheet linked in the html page yo uhave been created.
 - Build a page that contains all the HTML elements in the image below:
 
 ![image](./images/imatation.png)
 
-Great! now you've created the first html page!
-let's give page some style, move to next step!
+Great! now you've created the first real html page, let's move on to the next step! 
 
-##### step-2 (40p)
-Create an HTML file and name it "level-2-2" This document should contain the following:
-- A style sheet for previous step (2p)
-- Style sheet for  should be linked to the html (2p)
-- A Header and a Footer (5p)
-- A menu with at least 4 items (5p)
-- An image with alt attribute and under it an unordered list of 5 items (10p)
-- In the footer, three hyperlinks that takes you to google.com,facebook.com,github.com (6p)
-- Images should contain the alt attribute (5p)
-- Do not forget we said that let's do some style, so each elment before should be styled!
+##### step-3 (25p)
 
-Redo  the same step but with **internal stylesheet** (5p)
+You are not able to do this step if you did not finish the previous one before, make sure about that or your points wont be count!
+- Fill the page you've created before with information for one of the topics below:
+    - Page for a restaurent.
+    - Page for a sports wear.
+    - Page for a dj producer.
+    - Page for a portfolio designer.
 
-Congrats, you've done the step-2 move forward to step-3!
 
-##### step-3 (30p)
-Did you remember the cv exercises let use it back again:
-- Change the cv-second-step folder to "the cv-second-step folder-yourname", then open the folder (2p)
-- Creat a style sheet name it about-competencies.css and link it in about-competencies.html (2p)
-- You have two sections about and competencies give each one identifier or class. (4p)
-- Use the identifiers, classes, elements to change the colors, backgrounds, font size and font family, be creative! 
-  (10p for each section)
-- Make the about section hidden (1p)
-- Now the competencies hidden (1p)
-
-Congrats, I'm really glad that you are reach here, see you next exercise!
+You are making a big progress, go and have a good rest, see you next week!
