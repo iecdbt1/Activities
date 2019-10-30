@@ -8,9 +8,9 @@
 
 
 #### Steps
-
+Creat foler name it to your name and do inside the following steps:
 ##### step-1 
-Create an HTML file and name it “your name-level-1-1": This document should contain the following:
+Create an HTML file and name it “level-2-1": This document should contain the following:
 - A Header and Footer element.
 - At least one paragraph element.
 - Uses three Heading types.
@@ -21,7 +21,7 @@ Create an HTML file and name it “your name-level-1-1": This document should co
 If you done this you get points move to the next step!
 
 ##### step-2
-Create an HTML file and name it "your name-level-1-2" This document should contain the following:
+Create an HTML file and name it "level-2-2" This document should contain the following:
 - A style sheet.
 - Style sheet should be linked to the html and another one internal.
 - A Header and a Footer.
