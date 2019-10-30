@@ -4,6 +4,11 @@
 
 ### level-2 (100p)
 
+Here you are again, how was the las level?
+Hope you likedd the html elements and get familier how structure a page!
+Here in level-2 we will include some css inside and outside our html page, let's go!
+
+
 #### Goals
 - Practicing html elment.
 - Writing the page structure from scratch.
@@ -23,12 +28,13 @@ Create an HTML file and name it “level-2-1": This document should contain the 
 - Uses 3 formatting types (3p)
 - At least one image that should contain the alt attribute (2p) 
 
-Great! now you've used many html elements let's give them some style, move to next step!
+Great! now you've created the first html page!
+let's give page some style, move to next step!
 
 ##### step-2 (40p)
 Create an HTML file and name it "level-2-2" This document should contain the following:
-- A style sheet (2p)
-- Style sheet should be linked to the html (2p)
+- A style sheet for previous step (2p)
+- Style sheet for  should be linked to the html (2p)
 - A Header and a Footer (5p)
 - A menu with at least 4 items (5p)
 - An image with alt attribute and under it an unordered list of 5 items (10p)
