@@ -2,7 +2,7 @@
 
 ## HTML/CSS
 
-### level-3 (p)
+### level-3 (100p)
 
 Welcome back again! here is you will build a real html page with style sheet, are you excited?
 Previously you have learned about html structure, elements and how to style them internal and linked to a style sheet page.
@@ -10,8 +10,12 @@ Previously you have learned about html structure, elements and how to style them
 
 
 #### Hints
-- [Google](https://www.google.com)
-- [Again](https://www.google.com)
+- [Float](https://www.w3schools.com/cssref/pr_class_float.asp)
+- [Float](https://www.youtube.com/watch?v=VwxGKpvW8Zk)
+- [Flex](https://www.w3schools.com/cssref/css3_pr_flex.asp)
+- [Flex](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+- [Grid](https://www.w3schools.com/css/css_grid.asp) 
+- [Grid](https://www.youtube.com/watch?v=jV8B24rSN5o) 
 
 #### Goals
 - Creating html page and a style sheet page from scratch.
