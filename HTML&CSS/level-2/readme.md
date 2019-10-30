@@ -35,7 +35,7 @@ Create an HTML file and name it "level-2-2" This document should contain the fol
 - In the footer, three hyperlinks that takes you to google.com,facebook.com,github.com (6p)
 - Images should contain the alt attribute (5p)
 
-Redo do the same step but with **internal stylesheet** (5p)
+Redo  the same step but with **internal stylesheet** (5p)
 Congrats, you've done the step-2 move forward to step-3!
 
 ##### step-3 (30p)
