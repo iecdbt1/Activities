@@ -4,6 +4,7 @@
 
 ### level-1 (100p)
 
+Welcome to the level one we will start with html structure and get familiar with some elements.
 
 #### Goals
 - Get known with page Structure.
