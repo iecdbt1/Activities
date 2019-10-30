@@ -13,7 +13,7 @@
 
 #### Hints
 - Search on google for your question.
-- If it dose not work go [here](www.google.com)
+- If it dose not work go [here](https://www.google.com)
 - If it does not work ask your colleagues.
 - If it dose not work ask the teacher.
 - If it dose not work ask on discord.
