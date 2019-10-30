@@ -12,10 +12,12 @@
 - Doing the first step in cv project.
 
 #### Hints
-- Google
-- Then Read
-- Then Google
-- Then Read
+- Search on google for your question.
+- If it dose not work go [here](www.google.com)
+- If it does not work ask your colleagues.
+- If it dose not work ask the teacher.
+- If it dose not work ask on discord.
+- If it dose not work do the first hint again.
 
 #### Tutorials
 - [HTML](https://www.w3schools.com/html/html_elements.asp)
@@ -46,6 +48,7 @@ You're done, congrats! move to the next step!
 - Header and footer(10p)
 - In the body should be a Table descriping the kinds of BT1 in your school (kind id-title-number of classes-number of 	       students), and fill it (25p)
 No worries to fill fake information, but at least five kinds.
+
 ##### Step-3 (47p)
 In the same folder:
 - Create student.html file (1p)
