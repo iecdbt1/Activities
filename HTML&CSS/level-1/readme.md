@@ -47,6 +47,7 @@ You're done, congrats! move to the next step!
 - Give it a title (1p)
 - Header and footer(10p)
 - In the body should be a Table descriping the kinds of BT1 in your school (kind id-title-number of classes-number of 	       students), and fill it (25p)
+
 No worries to fill fake information, but at least five kinds.
 
 ##### Step-3 (47p)
@@ -56,6 +57,7 @@ In the same folder:
 - Give it a title (1p)
 - Header and footer.(10p)
 - In the body should be a Table descriping the each student in your school (student id-name-last name-email), and fill it       (25p)
+
 Congrats! you have done the first level, hope you all as a class do it on time see you next week!
 
 
