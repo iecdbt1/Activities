@@ -4,7 +4,7 @@
 
 ### level-4 (100p)
 
-Are you ready for the big challenge, today we will be finish done with the cv do you remember it!
+Are you ready for the big challenge, today we will be done with the cv, you remember it don't you?
 
 In this level we will test every thing we have learned before, it's just one step
 
