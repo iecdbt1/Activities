@@ -59,7 +59,7 @@ And the rules for each exercise are:
 Now before starting the Competition I will give you some hints will help you to win the Competition:
   - This Competition it is not Individual Competition.
   - Focus on dividing the tasks between you and your colleagues in a way that each one of them part of the Competition.
-  - In each task you find your self stuck, ***just copy the task and google it*** [Google](www.google.com)
+  - In each task you find your self stuck, ***just copy the task and google it*** [Google](https://www.google.com/)
   - As a student you have just one question share it with your class before you ask it, maybe someone knows the solution so       you do not lose the chance to ask.
   - Unfortunately your colleagues do not have the answer, make sure that no one from your colleagues has the same question,       otherwise both of you will ask the same question and both of you not able to ask till the deadline. 
   - Congrats your team done the exercise before the deadline, but your job as a team in a class with many teams is not done       yet, you have to help the rest to finish the exercise before the deadline, otherwise your points will count as a half.
